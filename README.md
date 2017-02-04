@@ -2,7 +2,7 @@
 
 ## 2017.2.4：如何在微信公众号中使用 Markdown？
 
-微信公众号后台发文章的时候，可以有一些简单的格式使用，但是，如果想插入代码，等其他更加丰富的格式，就可以使用 Markdown 来排版了。
+微信公众号后台发文章的时候，可以有一些简单的格式使用，但是，如果想插入代码等其他更加丰富的格式，就可以使用 Markdown 来排版了。
 
 其实窍门就在于微信后台的编辑框中是可以直接粘贴 html 的，当然真正写文章的时候我们写的是语法更为简单的 markdown ，然后借助一个软件叫做 [markdown here](http://markdown-here.com/) 来把内容转化成 html 。
 
@@ -10,7 +10,7 @@
 
 具体操作视频里有：http://haoduoshipin.com/v/208
 
-参考[半撇私塾](http://learn.bpteach.com/open/course/1?utm_source=zhihu.com&utm_campaign=cnm-vol-01&utm_medium=social&utm_term=markdown&utm_content=wechat-layout-guide）
+参考[半撇私塾的相关视频](http://learn.bpteach.com/open/course/1?utm_source=zhihu.com&utm_campaign=cnm-vol-01&utm_medium=social&utm_term=markdown&utm_content=wechat-layout-guide)
 
 ## 2017.2.3：ES6 的 let 和 ES5 的 var 有啥区别？
 
