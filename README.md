@@ -3,7 +3,7 @@
 
 ## 2017.2.7 ~ 以后
 
-内容直接发到 http://haoduoshipin.com
+内容直接发到 http://haoduoshipin.com 和公众号“好多视频网”
 
 ## 2017.2.6
 
