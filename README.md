@@ -1,5 +1,10 @@
 # Happypeter 每日一答
 
+
+## 2017.2.7 ~ 以后
+
+内容直接发到 http://haoduoshipin.com
+
 ## 2017.2.6
 
 
